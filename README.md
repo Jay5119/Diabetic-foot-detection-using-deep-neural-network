@@ -4,5 +4,5 @@ Diabetes mellitus is one of the most dreadful diseases of the modern world, whic
 The thermal image dataset used in this paper can be found publically, at : https://ieee-dataport.org/open-access/plantar-thermogram-database-study-diabetic-foot-complications,  "D. A. Hernandez-Contreras, H. Peregrina-Barreto, J. d. J. Rangel-Magdaleno and F. J. Renero-Carrillo, "Plantar Thermogram Database for the Study of Diabetic Foot Complications," in IEEE Access, vol. 7, pp. 161296-161307, 2019, doi: 10.1109/ACCESS.2019.2951356."
 
 
-Please Cite the paper, "Katual, Jayaprakash, and Amit Kaul. "Analysis of Thermal Images with Parallel Convolutional Deep Neural Network for Diabetic Foot Detection." 2022 IEEE 3rd Global Conference for Advancement in Technology (GCAT). IEEE, 2022."
+Please Cite the paper, "Katual, Jayaprakash, and Amit Kaul. "Analysis of Thermal Images with Parallel Convolutional Deep Neural Network for Diabetic Foot Detection." 2022 IEEE 3rd Global Conference for Advancement in Technology (GCAT). IEEE, 2022.",    https://ieeexplore.ieee.org/abstract/document/9972064
 
