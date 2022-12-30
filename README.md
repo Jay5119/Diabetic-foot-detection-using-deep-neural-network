@@ -1,4 +1,8 @@
 # Diabetic-foot-detection-using-deep-neural-network
 Diabetes mellitus is one of the most dreadful diseases of the modern world, which has serious implications on different body organs. Diabetic foot is one of these serious consequences and its easy detection is required to prevent gangrene or amputation. Non-invasive method based on thermal images has been found suitable for diabetic foot detection. In this study, a parallel convolution deep neural network has been employed for the classification of diabetes-infected feet. The parallel convolution network used in this work contains three convolution layers of three different sizes in parallel followed by max-pool layers for smoothing in each parallel section. The results obtained with the suggested network configuration have been compared with two standard deep neural networks, namely alexnet and googlenet. In comparison to standard networks, the performance of the parallel deep neural network was better for all the metrics used in this work.
 
+The thermal image dataset used in this paper can be found publically, at : https://ieee-dataport.org/open-access/plantar-thermogram-database-study-diabetic-foot-complications,  "D. A. Hernandez-Contreras, H. Peregrina-Barreto, J. d. J. Rangel-Magdaleno and F. J. Renero-Carrillo, "Plantar Thermogram Database for the Study of Diabetic Foot Complications," in IEEE Access, vol. 7, pp. 161296-161307, 2019, doi: 10.1109/ACCESS.2019.2951356."
+
+
 Please Cite the paper, "Katual, Jayaprakash, and Amit Kaul. "Analysis of Thermal Images with Parallel Convolutional Deep Neural Network for Diabetic Foot Detection." 2022 IEEE 3rd Global Conference for Advancement in Technology (GCAT). IEEE, 2022."
+
